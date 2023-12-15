@@ -19,5 +19,3 @@ Console.WriteLine("c:\source\repos");
 Console.WriteLine("c:\\source\\repos");
 //Saída:
 c:\source\repos
-
-Formatar a saída usando sequências de escape de caracteres
